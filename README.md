@@ -1,1 +1,2 @@
-# 2-parcial_0192855
+pagina base:
+https://www.figma.com/design/30s7oqHjEkVf54dAMg6oeW/Find-Your-Dream-Home-Website-
